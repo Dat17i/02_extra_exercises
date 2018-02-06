@@ -1,1 +1,5 @@
-# 02_extra_exercises
+# 02 Extra Exercises
+
+Try to create the following pages
+
+![]()
